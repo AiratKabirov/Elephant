@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Companies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Company>
+        <Id>1</Id>
+        <Name>Test Company 1</Name>
+        <Profit>5000</Profit>
+        <CreationDate>2003-08-25T00:00:00</CreationDate>
+        <ReportDate>2016-08-25T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>2</Id>
+        <Name>Test Company 2</Name>
+        <Profit>100</Profit>
+        <CreationDate>2005-08-22T00:00:00</CreationDate>
+        <ReportDate>2017-08-21T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>3</Id>
+        <Name>Test Company 3</Name>
+        <Profit>450</Profit>
+        <CreationDate>2003-06-15T00:00:00</CreationDate>
+        <ReportDate>2017-08-22T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>4</Id>
+        <Name>Test Company 4</Name>
+        <Profit>800</Profit>
+        <CreationDate>2012-12-05T00:00:00</CreationDate>
+        <ReportDate>2017-05-15T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>5</Id>
+        <Name>Test Company 5</Name>
+        <Profit>234</Profit>
+        <CreationDate>1999-09-15T00:00:00</CreationDate>
+        <ReportDate>2017-03-05T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>6</Id>
+        <Name>Test Company 6</Name>
+        <Profit>800</Profit>
+        <CreationDate>2010-10-18T00:00:00</CreationDate>
+        <ReportDate>2017-05-13T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>7</Id>
+        <Name>Test Company 7</Name>
+        <Profit>1802</Profit>
+        <CreationDate>2014-03-01T00:00:00</CreationDate>
+        <ReportDate>2017-08-17T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>5</Id>
+        <Name>Test Company 5</Name>
+        <Profit>560</Profit>
+        <CreationDate>1999-09-15T00:00:00</CreationDate>
+        <ReportDate>2017-08-30T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>6</Id>
+        <Name>Test Company 6</Name>
+        <Profit>780</Profit>
+        <CreationDate>2010-10-18T00:00:00</CreationDate>
+        <ReportDate>2017-08-30T00:00:00</ReportDate>
+    </Company>
+    <Company>
+        <Id>7</Id>
+        <Name>Test Company 7</Name>
+        <Profit>950</Profit>
+        <CreationDate>2014-03-01T00:00:00</CreationDate>
+        <ReportDate>2017-08-30T00:00:00</ReportDate>
+    </Company>
+</Companies>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<CloseInfoItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CloseInfo>
+        <Id>4</Id>
+        <CloseDate>2016-02-18T00:00:00</CloseDate>
+    </CloseInfo>
+    <CloseInfo>
+        <Id>7</Id>
+        <CloseDate>2015-10-21T00:00:00</CloseDate>
+    </CloseInfo>
+    <CloseInfo>
+        <Id>16</Id>
+        <CloseDate>2013-01-15T00:00:00</CloseDate>
+    </CloseInfo>
+</CloseInfoItems>

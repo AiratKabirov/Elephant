@@ -1,0 +1,5 @@
+c:\users\ayratka\documents\visual studio 2010\Projects\TechnicalTask\TechnicalTask\bin\Debug\TechnicalTask.exe
+c:\users\ayratka\documents\visual studio 2010\Projects\TechnicalTask\TechnicalTask\bin\Debug\TechnicalTask.pdb
+c:\users\ayratka\documents\visual studio 2010\Projects\TechnicalTask\TechnicalTask\obj\x86\Debug\TechnicalTask.exe
+c:\users\ayratka\documents\visual studio 2010\Projects\TechnicalTask\TechnicalTask\obj\x86\Debug\TechnicalTask.pdb
+C:\Users\AyratKa\Documents\Visual Studio 2010\Projects\TechnicalTask\TechnicalTask\obj\x86\Debug\TechnicalTask.csprojResolveAssemblyReference.cache
