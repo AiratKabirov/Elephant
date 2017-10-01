@@ -1,0 +1,2 @@
+If a broken archive does not contain a recovery record or if the archive is not completely recovered due to major damage, a second stage is performed. During this stage only the archive structure is reconstructed and it is impossible to recover files which fail the CRC validation, it is still possible,  however, to recover undamaged files, which were inaccessible due to the broken archive structure. Mostly this is useful for non-solid archives.
+When the second stage is completed, the reconstructed archive will be saved.

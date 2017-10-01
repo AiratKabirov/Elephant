@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication2.Form1">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="backgroundWorker1" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Method Name="button1_Click" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Method Name="button4_Click" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Method Name="button5_Click" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Method Name="button6_Click" Hidden="true" />
+      <Field Name="button7" Hidden="true" />
+      <Method Name="button7_Click" Hidden="true" />
+      <Field Name="button8" Hidden="true" />
+      <Method Name="button8_Click" Hidden="true" />
+      <Field Name="chart1" Hidden="true" />
+      <Field Name="checkBox1" Hidden="true" />
+      <Field Name="comboBox1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="key" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Method Name="NextGeneration" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Method Name="openFileDialog1_FileOk" Hidden="true" />
+      <Field Name="par1" Hidden="true" />
+      <Field Name="par3" Hidden="true" />
+      <Field Name="par4" Hidden="true" />
+      <Field Name="par5" Hidden="true" />
+      <Field Name="random" Hidden="true" />
+      <Field Name="richTextBox1" Hidden="true" />
+      <Field Name="richTextBox2" Hidden="true" />
+      <Field Name="richTextBox3" Hidden="true" />
+      <Field Name="richTextBox4" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>/wQBFACAACgAABAQAAKUUAACMOU7pAQAiHSfBAEIADA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication2.Substitution">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication2.Chromosome" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="random" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAQAAAgAAAAAAAAAAAAAAIQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
